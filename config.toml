@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://epic-franklin-e0ba0e.netlify.app"
 languageCode = "en-us"
 theme = "terminal"
 title = 'Sam Stuver'
