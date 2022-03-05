@@ -1,4 +1,4 @@
-baseurl = "https://stuverdev.netlify.app/"
+baseurl = "https://stuver.dev"
 languageCode = "en-us"
 theme = "terminal"
 title = 'Sam Stuver'
@@ -97,4 +97,4 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "linkedin"
         name = "LinkedIn"
-        url = "https://www.linkedin.com/in/samuel-stuver-5a394152/"
+        url = "https://www.linkedin.com/in/sam-stuver/"
