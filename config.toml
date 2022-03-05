@@ -1,8 +1,8 @@
-# baseURL = 'http://stuver.dev/'
-baseURL = 'http://epic-franklin-e0ba0e.netlify.app'
-languageCode = 'en-us'
+baseurl = "/"
+languageCode = "en-us"
+theme = "terminal"
 title = 'Sam Stuver'
-theme = 'terminal'
+paginate = 5
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -10,7 +10,7 @@ theme = 'terminal'
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "green"
+  themeColor = "orange"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
