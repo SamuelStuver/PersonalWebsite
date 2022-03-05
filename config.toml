@@ -1,5 +1,5 @@
 # baseURL = 'http://stuver.dev/'
-baseURL = 'https://epic-franklin-e0ba0e.netlify.app'
+baseURL = 'http://epic-franklin-e0ba0e.netlify.app'
 languageCode = 'en-us'
 title = 'Sam Stuver'
 theme = 'terminal'
