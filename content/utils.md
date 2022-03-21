@@ -6,7 +6,9 @@ author = "Sam"
 
 ## [sjournal](https://github.com/SamuelStuver/sjournal "Github")
 
-[![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/SamuelStuver/sjournal?include_prereleases&logo=github)](https://github.com/SamuelStuver/sjournal/releases/tag/v0.9.0-alpha)
+![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/SamuelStuver/sjournal?include_prereleases&logo=github)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/sjournal)
+![PyPI - License](https://img.shields.io/pypi/l/sjournal)
 
 A simple, lightweight notepad for terminals
 
