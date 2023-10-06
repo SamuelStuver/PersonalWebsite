@@ -1,4 +1,4 @@
-baseurl = "https://stuver.dev"
+baseurl = "https://stuverdev.netlify.app/"
 languageCode = "en-us"
 theme = "risotto"
 title = 'Sam Stuver'
