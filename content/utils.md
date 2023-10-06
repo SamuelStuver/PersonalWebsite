@@ -12,4 +12,4 @@ author = "Sam"
 
 A simple, lightweight notepad for terminals
 
-![sjournal_screenshot](https://github.com/SamuelStuver/sjournal/blob/main/demo.png?raw=true "sjournal screenshot")
+![sjournal_screenshot](https://raw.githubusercontent.com/SamuelStuver/sjournal/main/demos/demo.png "sjournal screenshot")
