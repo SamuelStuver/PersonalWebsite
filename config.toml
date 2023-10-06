@@ -1,6 +1,6 @@
 baseurl = "https://stuver.dev"
 languageCode = "en-us"
-theme = "terminal"
+theme = "risotto"
 title = 'Sam Stuver'
 paginate = 5
 
