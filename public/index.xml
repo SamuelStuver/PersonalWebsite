@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
-    <link>https://epic-franklin-e0ba0e.netlify.app/</link>
-    <description>Recent content on Terminal</description>
+    <title>Sam Stuver</title>
+    <link>https://stuverdev.netlify.app/</link>
+    <description>Recent content on Sam Stuver</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://epic-franklin-e0ba0e.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>© 2023 Samuel Stuver</copyright><atom:link href="https://stuverdev.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Showcase</title>
+      <link>https://stuverdev.netlify.app/showcase_sample/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stuverdev.netlify.app/showcase_sample/</guid>
+      <description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://stuverdev.netlify.app/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stuverdev.netlify.app/about/</guid>
+      <description>My name is Sam.</description>
+    </item>
+    
+    <item>
+      <title>Utils</title>
+      <link>https://stuverdev.netlify.app/utils/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stuverdev.netlify.app/utils/</guid>
+      <description>sjournal A simple, lightweight notepad for terminals</description>
+    </item>
+    
   </channel>
 </rss>

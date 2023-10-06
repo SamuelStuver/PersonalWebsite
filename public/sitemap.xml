@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://epic-franklin-e0ba0e.netlify.app/categories/</loc>
+    <loc>https://stuverdev.netlify.app/showcase_sample/</loc>
+    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://epic-franklin-e0ba0e.netlify.app/tags/</loc>
+    <loc>https://stuverdev.netlify.app/about/</loc>
   </url><url>
-    <loc>https://epic-franklin-e0ba0e.netlify.app/</loc>
+    <loc>https://stuverdev.netlify.app/categories/</loc>
+  </url><url>
+    <loc>https://stuverdev.netlify.app/</loc>
+  </url><url>
+    <loc>https://stuverdev.netlify.app/tags/</loc>
+  </url><url>
+    <loc>https://stuverdev.netlify.app/utils/</loc>
   </url>
 </urlset>
